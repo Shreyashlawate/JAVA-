@@ -1,2 +1,2 @@
 # JAVA-
-This repository has problems i have solved while learning java
+This repository has problems and codes i  have solved while learning java
